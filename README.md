@@ -1,6 +1,6 @@
 # Welcome to the Windows Terminal, Console and Command-Line repo
 
-This repository contains the source code for:
+#### This repository contains the source code for:
 
 * [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal-preview/9n0dx20hk701)
 * The Windows console host (`conhost.exe`)
